@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+   background:url('../img/blue.png') no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+  }
+  
+  h1{
+    /* background-color: #D0BFFF; */
+      margin: 110px 0px 0px 0px;
+      font-size: 250%;  
+      font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+font-size: 45px;
+font-weight: lighter;
+color:rgb(137, 43, 226);
+
+
+    /* color: #FF9843; */
+  }
+  
+  .para{
+    /* background-color: #D0BFFF; */
+      margin-top: 0px;
+      font-family: 'Great Vibes', cursive;
+      font-size: 30px;
+      color:rgb(137, 43, 226);
+    /* color: :#FF9843; */
+  }
+  
+  .first{
+    background-color: rgba(0, 234, 255, 0.111);
+    background: transparent;
+    height: 500px;
+  /* border-width: 13px; */
+  }
+  
+  .imgbg1{
+    /* width: 500px; */
+    height: 100px;
+  margin-top: 250px;
+  left: 330px;
+    position: absolute;
+  }
+  
+  .imgbg2{
+        height: 100px;
+        margin-left: 700px;
+        margin-bottom: -200px;;
+  }
+  
+  .imgbg{
+    mix-blend-mode: darken;
+   height: 350px;
+   text-align: center;
+   
+  }
+  h2{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+font-size: 40px;
+font-weight: lighter;
+color:rgb(137, 43, 226);
+
+  }
+  h3{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+font-size:40px ;
+font-weight: lighter;
+color:rgb(137, 43, 226);
+
+  }
+ .profile{
+  margin-top: 200px;
+ } 
+ .back{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+ }
+ .like{
+  margin-top: 90px;
+ }
+.con{
+  font-size: 30px;
+  color: brown;
+}
+ 
